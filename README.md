@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Ruchitha B R
 
-<!--
-**Ruchithabr/Ruchithabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student @ Bangalore Institute of Technology
 
-Here are some ideas to get you started:
+💻 Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Full Stack Development
+
+🚀 Interested in AI, ML and REST APIs
+
+## Skills
+
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+- Flask
+- REST APIs
+- Git
+- GitHub
+- MySQL
+- Machine Learning
+
+## Projects
+
+### AutoQuest
+AI-Based MCQ Generator using OCR and NLP
+
+### Smart Mall Web Portal
+HTML | CSS | JavaScript
+
+### Weather App
+Python | OpenWeatherMap API
+
+## Connect with Me
+
+- LinkedIn: linkedin.com/in/ruchitha-br
+- Email: ruchitha.b.r.01@gmail.com
