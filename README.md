@@ -1,4 +1,5 @@
 Hi there, I'm Ruchitha B R 👋
+
 🎓 MCA Student @ Bangalore Institute of Technology | AI/ML & Data Science Enthusiast
 
 I am an MCA student with hands-on experience in Machine Learning, NLP, and OCR through academic projects and an AI & ML with Data Science internship. I build predictive models and integrate them into functional apps using Flask and REST APIs.
