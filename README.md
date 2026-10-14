@@ -1,39 +1,45 @@
-# Hi 👋, I'm Ruchitha B R
+Hi there, I'm Ruchitha B R 👋
+🎓 MCA Student @ Bangalore Institute of Technology | AI/ML & Data Science Enthusiast
 
-🎓 MCA Student @ Bangalore Institute of Technology
+I am an MCA student with hands-on experience in Machine Learning, NLP, and OCR through academic projects and an AI & ML with Data Science internship. I build predictive models and integrate them into functional apps using Flask and REST APIs.
 
-💻 Python Developer
+🚀 What I'm currently working on:
+Building skills in LLM APIs, Prompt Engineering, RAG, LangChain, and Vector Databases.
 
-🌱 Currently learning Full Stack Development
+Developing smart, AI-powered backend solutions.
 
-🚀 Interested in AI, ML and REST APIs
+🛠️ Tech Stack:
+Languages: Python, Java, JavaScript, SQL
 
-## Skills
+AI/ML & NLP: Scikit-learn, NLP, OCR (Tesseract), Pandas, NumPy, Predictive Modeling
 
-- Python
-- Java
-- JavaScript
-- HTML
-- CSS
-- Flask
-- REST APIs
-- Git
-- GitHub
-- MySQL
-- Machine Learning
+Backend & APIs: Flask, REST APIs
 
-## Projects
+Databases: MySQL, MongoDB, SQLite
 
-### AutoQuest
-AI-Based MCQ Generator using OCR and NLP
+Frontend: HTML, CSS
 
-### Smart Mall Web Portal
-HTML | CSS | JavaScript
+Tools: Git, GitHub, VS Code
 
-### Weather App
-Python | OpenWeatherMap API
+📂 Featured Projects:
+🧠 AutoQuest — AI-Based MCQ Generator
+Built an NLP + OCR pipeline (Tesseract) to extract text from files and auto-generate MCQs. Integrated it into a Flask app, cutting manual effort by 70%.
+Tech: Python, Flask, NLP, OCR
 
-## Connect with Me
+💊 MediRemind — Smart Medicine Reminder App
+Designed an adherence-based dose-risk predictor using intake-log data (taken/missed/snoozed) within a role-based patient-caregiver-doctor app.
+Tech: Python, Flask, SQLite, Predictive Modeling
 
-- LinkedIn: linkedin.com/in/ruchitha-br
-- Email: ruchitha.b.r.01@gmail.com
+🌤️ Live Weather Report App
+Built an app to fetch and process real-time weather data from a public API, displaying temperature, humidity, and wind speed.
+Tech: Python, Tkinter, OpenWeatherMap API
+
+🛒 Smart Mall Web Portal
+Developed a responsive mall management system.
+Tech: HTML, CSS, JavaScript
+
+📫 Connect with Me:
+LinkedIn: linkedin.com/in/ruchitha-br
+
+Email: ruchitha.b.r.01@gmail.com
+
